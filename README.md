@@ -1,6 +1,6 @@
 ## Lista de classificados SpringBoot
 
-Projeto final do **Cruso de Desenvolvimento de Software, nivel avançado**, realizado pela Universidade Federal de Santa Catarina.<br>
+Projeto final do **Curso de Desenvolvimento de Software, nivel avançado**, realizado pela Universidade Federal de Santa Catarina.<br>
 
 O projeto é uma lista de classificados com o backend feito com o framework SpringBoot e o frontend feito em React.<br>
 

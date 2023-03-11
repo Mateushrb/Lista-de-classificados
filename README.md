@@ -4,4 +4,4 @@ Projeto final do **Cruso de Desenvolvimento de Software, nivel avançado**, real
 
 O projeto é uma lista de classificados com o backend feito com o framework SpringBoot e o frontend feito em React.<br>
 
-Para visualizar a aplicação, é necessário executar o backend com o Eclipse ou o Spring Toos Suite e o frontend com o terminal, utilizando o comando ```npm start```
+Para visualizar a aplicação, é necessário iniciar o servidor o backend com o Eclipse ou o Spring Toos Suite e o servidor frontend com o terminal, utilizando o comando ```npm install```, para instalar todas as dependências necessárias e em seguida utilizar o comando ```npm start```.
